@@ -1,7 +1,7 @@
 
 <h1>Hi there 👋 I'm Sameer </h1>
 
-<h2>Skills</h2> 
+<h2>Skills 🧠</h2> 
 
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
@@ -20,7 +20,7 @@
 
 
 
-<h2>Socials</h2>
+<h2>Socials 📧</h2>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
